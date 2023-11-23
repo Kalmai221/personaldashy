@@ -80,10 +80,11 @@ sections:
       collapsed: false
       hideForGuests: true
     items:
-      - type: clock
-        options:
-          timeZone: Europe/London
-          format: en-GB
-          hideDate: false
+      - &ref_2
+        - type: clock
+          options:
+            timeZone: Europe/London
+            format: en-GB
+            hideDate: false
     filteredItems:
       - *ref_2
