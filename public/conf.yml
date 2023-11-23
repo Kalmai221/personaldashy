@@ -1,20 +1,23 @@
----
-# Page meta info, like heading, footer text and nav links
 pageInfo:
   title: KalDashboard
   description: Website Dashboard
-
-# Optional app settings and configuration
 appConfig:
-  theme: colorful
-
-# Main content - An array of sections, each containing an array of items
+  theme: crayola
+  language: en
 sections:
-- name: Gaming
-  icon: fas fa-rocket
-  items:
-  - title: Roblox
-    description: Online Gaming Platform
-    url: https://ww.roblox.com
-    target: newtab
-  
+  - name: Gaming
+    icon: fas fa-rocket
+    items:
+      - &ref_0
+        title: Roblox
+        description: Online Gaming Platform
+        url: https://www.roblox.com
+        target: newtab
+    filteredItems:
+      - *ref_0
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: true
