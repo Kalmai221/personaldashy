@@ -73,6 +73,12 @@ sections:
       collapsed: false
       hideForGuests: true
   - name: Information
+    items:
+     - type: clock
+       options:
+        timeZone: Europe/London
+        format: en-GB
+        hideDate: false
     displayData:
       sortBy: default
       rows: 1
