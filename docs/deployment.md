@@ -33,6 +33,7 @@ Once you've got Dashy up and running, you'll want to configure it with your own 
     - [Google Cloud Platform](#google-cloud-platform)
     - [Platform.sh](#platformsh)
     - [Render](#render)
+    - [Railway](#railway)
     - [Scalingo](#scalingo)
     - [Play-with-Docker](#play-with-docker)
     - [Surge.sh](#surgesh)
@@ -194,7 +195,8 @@ If you don't have a home server, then fear not - Dashy can be deployed to pretty
 
 Some hosting providers required a bit of extra configuration, which was why I've made separate branches for deploying to those services (named: [`deploy_cloudflare`](https://github.com/Lissy93/dashy/tree/deploy_cloudflare), [`deploy_digital-ocean`](https://github.com/Lissy93/dashy/tree/deploy_digital-ocean), [`deploy_platform-sh`](https://github.com/Lissy93/dashy/tree/deploy_platform-sh) and [`deploy_render`](https://github.com/Lissy93/dashy/tree/deploy_render)). If there's another cloud service which you'd like 1-click deployment to be supported for, feel free to raise an issue.
 
-**Note** If you use a static hosting provider, then status checks, writing new config changes to disk from the UI, and triggering a rebuild through the UI will not be available. This is because these features need endpoints provided by Dashy's local Node server. Everything else should work just the same though.
+> [!NOTE]
+> If you use a static hosting provider, then status checks, writing new config changes to disk from the UI, and triggering a rebuild through the UI will not be available. This is because these features need endpoints provided by Dashy's local Node server. Everything else should work just the same though.
 
 ### Netlify
 
@@ -276,6 +278,16 @@ To deploy Dashy to Render, use the following link
 
 ```text
 https://render.com/deploy?repo=https://github.com/lissy93/dashy/tree/deploy_render
+```
+
+### Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/MtdjAQ?referralCode=app)
+
+[Railway](https://railway.app/) is a Platform as a Service (PaaS) that offers a complete platform for building and delivering programs to the backend of the cloud. You bring your code and Railway does the rest. Railway offers an extremely good developer experience and makes it effortless to deploy apps. Railway offers a free Trial Plan, and paid plans start at $5/month. Railway has 4 server locations: US-west, US-east, EU-west and ASIA-South-East.
+
+```text
+https://railway.app/template/MtdjAQ
 ```
 
 ### Scalingo
