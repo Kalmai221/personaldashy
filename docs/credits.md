@@ -505,10 +505,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/maximemoreillon">
-            <img src="https://avatars.githubusercontent.com/u/29086128?v=4" width="80;" alt="maximemoreillon"/>
+        <a href="https://github.com/pvillaverde">
+            <img src="https://avatars.githubusercontent.com/u/31769405?v=4" width="80;" alt="pvillaverde"/>
             <br />
-            <sub><b>Maxime Moreillon</b></sub>
+            <sub><b>Fedello</b></sub>
         </a>
     </td>
     <td align="center">
@@ -634,13 +634,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ethan-hann">
-            <img src="https://avatars.githubusercontent.com/u/36464732?v=4" width="80;" alt="ethan-hann"/>
-            <br />
-            <sub><b>Ethan Hann</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/emiran-orange">
             <img src="https://avatars.githubusercontent.com/u/71817149?v=4" width="80;" alt="emiran-orange"/>
             <br />
@@ -653,15 +646,15 @@
             <br />
             <sub><b>Eduardo Gomez</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Dylan-Bs">
             <img src="https://avatars.githubusercontent.com/u/35694107?v=4" width="80;" alt="Dylan-Bs"/>
             <br />
             <sub><b>Dylan Bersans</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dougaldhub">
             <img src="https://avatars.githubusercontent.com/u/25713235?v=4" width="80;" alt="dougaldhub"/>
@@ -696,15 +689,15 @@
             <br />
             <sub><b>David</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/clsty">
             <img src="https://avatars.githubusercontent.com/u/129247596?v=4" width="80;" alt="clsty"/>
             <br />
             <sub><b>Celestial.y</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/bskim45">
             <img src="https://avatars.githubusercontent.com/u/5674934?v=4" width="80;" alt="bskim45"/>
@@ -739,15 +732,15 @@
             <br />
             <sub><b>Artyom</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/alydemah">
             <img src="https://avatars.githubusercontent.com/u/652035?v=4" width="80;" alt="alydemah"/>
             <br />
             <sub><b>Aly Mohamed</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/5idereal">
             <img src="https://avatars.githubusercontent.com/u/30827929?v=4" width="80;" alt="5idereal"/>
@@ -760,6 +753,13 @@
             <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
             <br />
             <sub><b>0n1cOn3</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/maximemoreillon">
+            <img src="https://avatars.githubusercontent.com/u/29086128?v=4" width="80;" alt="maximemoreillon"/>
+            <br />
+            <sub><b>Maxime Moreillon</b></sub>
         </a>
     </td>
     <td align="center">
@@ -882,13 +882,6 @@
             <img src="https://avatars.githubusercontent.com/u/20515769?v=4" width="80;" alt="FormatToday"/>
             <br />
             <sub><b>FormatToday</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pvillaverde">
-            <img src="https://avatars.githubusercontent.com/u/31769405?v=4" width="80;" alt="pvillaverde"/>
-            <br />
-            <sub><b>Fedello</b></sub>
         </a>
     </td></tr>
 </table>
